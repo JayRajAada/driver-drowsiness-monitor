@@ -30,8 +30,8 @@ A computer vision-based system designed to detect driver fatigue in real-time. B
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/){github-username}/{repo-name}.git
-   cd {repo-name}
+   git clone https://github.com/JayRajAada/driver-drowsiness-monitor.git
+   cd driver-drowsiness-monitor
    ```
 
 2. **Create and activate a virtual environment:**

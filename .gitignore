@@ -1,0 +1,13 @@
+# Python / Virtual Environments
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Local Output Logs & Temporary Data
+outputs/*.csv
+outputs/
